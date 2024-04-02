@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Koleo</string>
+    <string name="error_message">No internet connection</string>
+    <string name="retry">Retry</string>
+    <string name="search_close">Close</string>
+    <string name="seach_hint">Search</string>
+    <string name="departure">Departure</string>
+    <string name="arrival">Arrival</string>
+    <string name="search_clear">Clear</string>
+    <string name="no_internet_connection">No Internet connection.</string>
+    <string name="action_required">Action Required</string>
+    <string name="dismiss">Dismiss</string>
+</resources>
